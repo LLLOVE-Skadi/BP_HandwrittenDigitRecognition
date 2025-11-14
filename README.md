@@ -26,7 +26,8 @@ jupyter nbextension enable --py widgetsnbextension --sys-prefix
 
 ## 效果展示
 <img width="361" height="378" alt="效果展示" src="https://github.com/user-attachments/assets/3fe1c439-7dbc-4fee-bde4-f82addcbafa0" />
-<img width="499" height="404" alt="联想截图_20251114191916" src="https://github.com/user-attachments/assets/a34fb8a1-8f6b-48e3-acec-49fecc432af5" />
+<img width="395" height="376" alt="联想截图_20251114233112" src="https://github.com/user-attachments/assets/b7e7776e-9ad9-4a63-b8c1-9e963da8bb31" />
+
 (也是毫无悬念的吧5识别成3了QAQ)
 
 ## 使用说明（widgets）
