@@ -1,6 +1,6 @@
-<img width="361" height="378" alt="联想截图_20251114232139" src="https://github.com/user-attachments/assets/db1fdcdf-cbb4-4451-a6e8-1d247410f10e" /># BP 手写数字识别
+# BP 手写数字识别
 
-简短说明
+简短说明：
 这是我的人工智能基础的作业，做的很烂。模型没训练好，对MNIST数据集的识别度很高，但是对于我自己的手写用于测试的图片识别率有点低（以MNIST为数据集，MNIST是一个手写数字0-9的数据集，有60000个训练样本和10000个测试样本）
 本项目基于一个简单的 BP（两层）神经网络实现对 MNIST 手写数字的识别，并提供 Jupyter Notebook（bp_digit0_9_recognition.ipynb / bp_0_9_recog.ipynb）用于训练、测试和通过 ipywidgets 交互式加载本地图片进行识别。
 
