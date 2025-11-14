@@ -23,7 +23,11 @@ jupyter nbextension enable --py widgetsnbextension --sys-prefix
 1. 在 VS Code 或 Jupyter Notebook 中打开 `bp_digit0_9_recognition.ipynb`。  
 2. 逐单元格运行（或运行整个 notebook）。训练部分可能较慢，建议先注释或缩小训练迭代用于调试。  
 3. 训练完成后，Notebook 下方会显示一个输入框和“识别”按钮，输入图片路径或选择现有的 .npy/.png 文件，点击按钮查看识别结果。
+
+## 效果展示
 <img width="361" height="378" alt="效果展示" src="https://github.com/user-attachments/assets/3fe1c439-7dbc-4fee-bde4-f82addcbafa0" />
+<img width="499" height="404" alt="联想截图_20251114191916" src="https://github.com/user-attachments/assets/a34fb8a1-8f6b-48e3-acec-49fecc432af5" />
+(也是毫无悬念的吧5识别成3了QAQ)
 
 ## 使用说明（widgets）
 - 默认路径为 `.\digit\num0.png`（可在 notebook 中修改）。当前仓库下 `digit/` 含0-9的png图片 和一个`num3.npy`，也可以输入 `.\digit\num3.npy`。
