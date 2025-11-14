@@ -8,9 +8,9 @@
 
 ## 文件结构
 - data/mnist/ — MNIST 二进制数据文件（train / t10k）
-- digit/ — 准备用来识别的图片（目前包含 num3.npy）
+- digit/ — 准备用来识别的图片（目前包含 阿拉伯数字“0-9” 的手写 png 格式图片以及一个 num3.npy）
 - bp_digit0_9_recognition.ipynb — 主要 notebook（训练 + widgets 识别）
-- bp_0_9_recog.ipynb — 备选实现（纯 Python 实现）
+- bp_0_9_recog.ipynb — 训练实现
 - README.md — 本文件
 
 ## 依赖（Windows）
